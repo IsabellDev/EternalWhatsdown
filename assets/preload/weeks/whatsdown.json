@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["whats-destroyer", "whatsdown", [168, 92, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "whatsdown",
+
+	"storyName": "Whatsdown finds the sonxai????",
+	"weekBefore": "tutorial",
+	"weekName": "Whatsdown",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
